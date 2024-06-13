@@ -1,0 +1,18 @@
+.titulo{
+    font-size: 100%;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.articulo{
+    border: 1px solid grey;
+    padding: 2px;
+    margin-top: 1%;
+}
+.texto{
+    font-weight: bold;
+}

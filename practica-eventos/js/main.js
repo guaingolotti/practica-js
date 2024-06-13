@@ -24,6 +24,7 @@ if (nombre == false || nombre === ""){
 }
 });
 
+let span = document.querySelector(".bienvenida span");
 
 span.addEventListener("click", function(){
     let secbienvenida = document.querySelector(".bienvenida");
@@ -60,7 +61,49 @@ let nelsonDos = this.document.querySelector("#nelson span");
     /* Capturar pesonajes + Asignarles a cada uno su evento correspondiente, 
     así como también su funcionalidad */
     
+bart.document.querySelector( 'click', function (){
 
+});
+
+lisa.document.querySelector('dblclick', function(){
+
+});
+
+marge.document.querySelector('click' , function(){
+
+});
+
+maggie.document.querySelector('mouseout', function(){
+
+});
+
+milhouse.document.querySelector('click', function (){
+
+});
+
+burns.document.querySelector('mouseover', function(){
+
+});
+
+bobPatinio.document.querySelector('dblclick', function(){
+
+});
+
+flanders.document.querySelector('mouseover', function(){
+
+});
+
+duffman.document.querySelector('dblclick', function(){
+
+});
+
+gregory.document.querySelector('mouseover', function(){
+
+});
+
+nelson.document.querySelector('click', function(){
+
+});
     /* Asignarle evento a la variable boton */
     //let boton = ;
 
